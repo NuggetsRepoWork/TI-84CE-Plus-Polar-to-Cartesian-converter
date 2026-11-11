@@ -1,2 +1,1 @@
-# TI-84CE-Plus-Polar-to-Cartesian-converter
-This is a simple program developed by me that converts Polar values into Cartesian values with a basic UI. Best for people that don't like the mode switch method to do these conversions
+The converter is very smart and capable of accepting two inputs in the style of A & B Which map out to A∠B when using the system to convert value. You will be prompted with value A which you input then after pressing enter you will be prompted to put the angle value next. Once done you press enter again and the value computes in two separate parts. Warning write those values down as the program is designed to make those values vanish when you move away by design
