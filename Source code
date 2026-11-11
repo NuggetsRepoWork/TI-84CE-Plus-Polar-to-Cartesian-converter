@@ -1,0 +1,11 @@
+Prompt A,B
+A*cos(B)->C
+A*sin(B)->D
+round(C,2)->C
+round(D,2)->D
+If D>=0
+Then
+	Disp C+D[i]
+Else
+	Disp C-abs(D)[i]
+End
